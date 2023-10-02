@@ -3,9 +3,9 @@
 just enjoy it here: https://juligarji.github.io/workana-test/ 
 
 ## code exercise
-you can find the functional counter hook in [src/hooks/useCounter](https://github.com/juligarji/workana-test/blob/main/src/hooks/useCounter/useCounter.tsx).
-The state class component that emulates useEffect in [src/components/useEffect](https://github.com/juligarji/workana-test/blob/main/src/components/useEffect/UseEffectComponent.tsx)
-The main component implementing both in [src/App.tsx](https://github.com/juligarji/workana-test/blob/main/src/App.tsx).
+- you can find the functional counter hook in [src/hooks/useCounter](https://github.com/juligarji/workana-test/blob/main/src/hooks/useCounter/useCounter.tsx).
+- The state class component that emulates useEffect in [src/components/useEffect](https://github.com/juligarji/workana-test/blob/main/src/components/useEffect/UseEffectComponent.tsx)
+- The main component implementing both in [src/App.tsx](https://github.com/juligarji/workana-test/blob/main/src/App.tsx).
 
 ## Questions and answers
 1. Why do we use Keys in ReactJS lists?
