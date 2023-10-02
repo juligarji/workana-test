@@ -1,6 +1,6 @@
 # Workana react interview
 ## how to run the project ?
-just enjoy it here: 
+just enjoy it here: https://juligarji.github.io/workana-test/ 
 
 ## Questions and answers
 1. Why do we use Keys in ReactJS lists?
